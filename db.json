@@ -1,0 +1,23 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "rasheed",
+      "username": "rash",
+      "email": "rasheed@g.co",
+      "phone": "123456",
+      "website": "rasheedweb"
+    }
+  ],
+  "comments": [
+    {
+      "id": 2,
+      "name": "saquib",
+      "email": "saq",
+      "body": "Saquib@g.co"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
